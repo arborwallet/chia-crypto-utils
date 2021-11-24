@@ -1,6 +1,7 @@
 name: chia_utils
 description: Utilities for the Chia blockchain.
 version: 1.0.0
+publish_to: none
 
 environment:
     sdk: '>=2.14.3 <3.0.0'
